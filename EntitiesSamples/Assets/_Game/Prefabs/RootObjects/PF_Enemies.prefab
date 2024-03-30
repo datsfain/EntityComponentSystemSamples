@@ -50,6 +50,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -67,6 +77,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: 4.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -89,6 +104,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -106,6 +131,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -128,6 +158,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -145,6 +185,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -167,6 +212,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -184,6 +239,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -206,6 +266,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -223,6 +293,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -245,6 +320,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -262,6 +342,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -284,6 +369,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -301,6 +396,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: -3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -323,6 +423,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -340,6 +450,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -362,6 +477,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1387853733355624955, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -379,6 +499,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 9221174200544733906, guid: 47742e96986cb5e478e1ae9bd4b09ebf,
+        type: 3}
+      propertyPath: MoveSpeed
+      value: -5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
